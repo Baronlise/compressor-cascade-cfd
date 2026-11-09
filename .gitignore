@@ -1,0 +1,6 @@
+# Fichiers Star-CCM+ (tres lourds, non partages)
+*.sim
+*.sim~
+# Python
+__pycache__/
+*.pyc
