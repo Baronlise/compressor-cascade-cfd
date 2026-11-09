@@ -28,4 +28,5 @@ Simcenter STAR-CCM+ 2210 (RANS, k-ω SST), Python (numpy, pandas, matplotlib).
 
 ## Author
 
-<Your name>, <your school>. Contact: <LinkedIn or e-mail>.
+Lise BARON, IPSA<br>
+Contact: <baronlise@hotmail.com>.
